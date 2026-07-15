@@ -1,0 +1,36 @@
+{
+  "dataset": "backend/datasets/prescription_samples.csv",
+  "model": "TF-IDF word/bigram features + LogisticRegression",
+  "rows": 24,
+  "train_rows": 18,
+  "test_rows": 6,
+  "heldout_accuracy": 1.0,
+  "classification_report": {
+    "not_prescription": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "prescription": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 6.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 6.0
+    }
+  },
+  "note": "Validator checks whether supplied prescription text/title looks like a prescription. It is not handwriting OCR."
+}

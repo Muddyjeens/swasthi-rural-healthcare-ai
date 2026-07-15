@@ -1,0 +1,25 @@
+text,label
+"rx tab paracetamol 500 mg after food twice daily for 3 days",prescription
+"doctor prescription amoxicillin 250mg capsule three times a day after meals",prescription
+"prescription metformin 500 mg before breakfast and dinner",prescription
+"take cetirizine 10 mg at night after food for 5 days",prescription
+"rx eye drops one drop each eye twice daily",prescription
+"digital prescription azithromycin 500mg once daily after food",prescription
+"tablet pantoprazole 40 mg before food every morning",prescription
+"syrup cough 5 ml three times daily after food",prescription
+"doctor advised ibuprofen 400 mg after meals sos pain",prescription
+"capsule omeprazole before breakfast once daily",prescription
+"medicine schedule dolo 650 after food morning night",prescription
+"rx handwritten prescription tablet levocetirizine once at night",prescription
+"invoice grocery rice dal milk total amount",not_prescription
+"school homework math worksheet chapter questions",not_prescription
+"restaurant menu biryani dosa tea coffee prices",not_prescription
+"landscape photo mountain river sunset",not_prescription
+"vehicle registration insurance policy paper",not_prescription
+"movie ticket show time seat number",not_prescription
+"bank statement transaction balance account",not_prescription
+"selfie image family vacation beach",not_prescription
+"news article cricket match score",not_prescription
+"shopping receipt shoes shirt discount",not_prescription
+"book page poem story paragraph",not_prescription
+"recipe ingredients onion tomato salt oil",not_prescription

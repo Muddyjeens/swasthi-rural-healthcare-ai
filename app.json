@@ -32,6 +32,20 @@
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 76
         }
+      ],
+      [
+        "expo-audio",
+        {
+          "microphonePermission": "Allow Swasthi to listen when you speak your health problem.",
+          "enableBackgroundRecording": false
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow Swasthi to choose a clear symptom image.",
+          "cameraPermission": "Allow Swasthi to take a clear symptom image."
+        }
       ]
     ],
     "experiments": {

@@ -1,0 +1,10 @@
+{
+  "dataset": "backend/datasets/ayurvedic_remedies.csv",
+  "huggingface_dataset": "ASR01/ayurvedic-remedies",
+  "huggingface_status": "unavailable: Dataset 'ASR01/ayurvedic-remedies' is a gated dataset on the Hub. You must be authenticated to access it.",
+  "conditions": 103,
+  "training_rows": 515,
+  "minimum_required_accuracy": 0.7,
+  "holdout_alias_accuracy": 0.8604651162790697,
+  "self_lookup_accuracy": 1.0
+}

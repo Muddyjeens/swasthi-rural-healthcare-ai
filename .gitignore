@@ -2,6 +2,12 @@
 
 # dependencies
 node_modules/
+backend/.venv/
+
+# large/generated artifacts
+backend/datasets/disease_symptoms_2023.csv
+output/
+tmp/
 
 # Expo
 .expo/
@@ -32,9 +38,15 @@ yarn-error.*
 
 # local env files
 .env*.local
+backend/.env
 
 # typescript
 *.tsbuildinfo
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
 
 example
 

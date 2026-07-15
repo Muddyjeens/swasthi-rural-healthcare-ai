@@ -1,0 +1,14 @@
+{
+  "best_model": "random_forest",
+  "dropped_rare_rows": 19,
+  "trainable_classes": 754,
+  "results": [
+    {
+      "name": "random_forest",
+      "accuracy": 0.3556473494512615,
+      "precision": 0.5765742391655566,
+      "recall": 0.3556473494512615,
+      "f1": 0.4062604068955088
+    }
+  ]
+}

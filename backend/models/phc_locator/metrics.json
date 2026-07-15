@@ -1,0 +1,5 @@
+{
+  "dataset": "backend/datasets/india_phc_sample.csv",
+  "rows": 10,
+  "self_lookup_accuracy": 1.0
+}

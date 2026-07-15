@@ -1,0 +1,10 @@
+{
+  "model_name": "TF-IDF char n-grams + LogisticRegression healthcare image-title validator",
+  "dataset_name": "Curated healthcare/body-area vs unrelated/gibberish image-title validation set",
+  "dataset_size": 70,
+  "minimum_required_accuracy": 0.7,
+  "accuracy": 0.8095238095238095,
+  "precision": 0.825974025974026,
+  "recall": 0.8095238095238095,
+  "f1": 0.8103896103896104
+}

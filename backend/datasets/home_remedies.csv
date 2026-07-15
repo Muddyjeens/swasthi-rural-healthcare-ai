@@ -1,0 +1,8 @@
+condition,symptom_keywords,risk_level,remedies
+fever,"fever|chills|ache all over",Low,"Drink fluids often; rest; use light clothing; use a lukewarm sponge bath if uncomfortable; monitor temperature."
+cough,"cough|sore throat|throat redness|nasal congestion|coryza",Low,"Sip warm fluids; try honey if age is over 1 year; use steam inhalation carefully; avoid smoke and dust."
+diarrhea,"diarrhea|loose stool|vomiting|nausea",Medium,"Use oral rehydration solution after each loose stool; eat soft foods; avoid alcohol and very oily food; watch urine output."
+skin irritation,"skin rash|itching of skin|skin irritation|skin dryness|abnormal appearing skin",Low,"Keep the area clean and dry; avoid scratching; use cool compresses; avoid new soaps or irritants."
+minor pain,"muscle pain|joint pain|back pain|headache",Low,"Rest the painful area; use warm or cold compresses; drink water; avoid heavy exertion until improving."
+urinary burning,"painful urination|frequent urination|burning urine",Medium,"Drink water; do not hold urine; avoid irritants like alcohol; seek care if fever, back pain, pregnancy, or blood in urine occurs."
+eye irritation,"eye redness|itchiness of eye|lacrimation|eye burns or stings",Medium,"Rinse with clean water; avoid rubbing; remove contact lenses; seek urgent care for pain, vision change, or injury."
